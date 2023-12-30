@@ -2,7 +2,7 @@
 This is a two player game.
 
 # Learning Resources:
-# - Wikipedia (game rules):https://en.wikipedia.org/wiki/Pig_(dice_game)
+Wikipedia (game rules):https://en.wikipedia.org/wiki/Pig_(dice_game)
 # - Python Official Documentation: https://docs.python.org/3/library/tkinter.html
 # - Real Python Tkinter Tutorial: https://realpython.com/python-gui-tkinter/
 # - Python GUI Programming with Tkinter on GeeksforGeeks: https://www.geeksforgeeks.org/python-gui-tkinter/
