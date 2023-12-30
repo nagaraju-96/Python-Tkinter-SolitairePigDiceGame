@@ -1,14 +1,6 @@
 # Python-Tkinter-SolitairePigDiceGame
 This is a two player game.
 
-# Learning Resources:
-Wikipedia (game rules):https://en.wikipedia.org/wiki/Pig_(dice_game)
-# - Python Official Documentation: https://docs.python.org/3/library/tkinter.html
-# - Real Python Tkinter Tutorial: https://realpython.com/python-gui-tkinter/
-# - Python GUI Programming with Tkinter on GeeksforGeeks: https://www.geeksforgeeks.org/python-gui-tkinter/
-# - Stack Overflow Community: https://stackoverflow.com/questions/tagged/tkinter
-
-
 Gameplay
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
 
